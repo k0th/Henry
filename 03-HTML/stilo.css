@@ -1,0 +1,25 @@
+body {
+    background: rgb(230, 230, 230);
+}
+
+img {
+    width: 300px;
+}
+
+.parrafos {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: rgb(163, 163, 163);
+    width: 600 px;
+    margin: 40px;
+    padding: 90px;
+    height: 500 px;
+}
+
+.titulos {
+    width: 600 px;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
